@@ -1,0 +1,2 @@
+Ini adalah project pertama belajar jenkins
+Bagaimana menghubungkan Jenkins dengan Github
